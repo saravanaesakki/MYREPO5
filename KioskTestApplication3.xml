@@ -13,7 +13,7 @@ KioskTestApplication
 </member><member name="P:KioskTestApplication.My.Resources.Resources.Culture">
 	<summary>
   Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.aaa
+  resource lookups using this strongly typed resource class
 </summary>
 </member><member name="T:KioskTestApplication.My.Resources.Resources">
 	<summary>
